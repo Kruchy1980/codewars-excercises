@@ -11,7 +11,7 @@ move(3, 6) should equal 15
 
 function move (position, roll) {
 
-#### Simple mathematical action
+#### Simple mathematical action nothing else
 
     return position + (2\*roll);
 
