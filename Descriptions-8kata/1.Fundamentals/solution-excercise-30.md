@@ -1,4 +1,4 @@
-# M
+# Simple validation of a username with regex
 
 Write a simple regex to validate a username. Allowed characters are:
 
