@@ -24,3 +24,15 @@ function basicOp(operation, value1, value2)
     : value1 / value2;
 
 }
+
+### Shorter solution
+
+##### Shorter way is to use eval() function which evaluates or executes an argument or stattement if the argument is in one or more JS statements
+
+function basicOp(operation, value1, value2) {
+return eval(operation+value1+value2);
+}
+
+### More about eval() function under link:
+
+https://www.w3schools.com/jsref/jsref_eval.asp
