@@ -10,5 +10,5 @@ function basicOp(operation, value1, value2) {
 // Shorter solution
 
 function basicOp(operation, value1, value2) {
-    return eval(operation + value1 + value2);
+    return eval(value1 + operation + value2);
 }

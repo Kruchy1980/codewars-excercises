@@ -30,7 +30,7 @@ function basicOp(operation, value1, value2)
 ##### Shorter way is to use eval() function which evaluates or executes an argument or stattement if the argument is in one or more JS statements
 
 function basicOp(operation, value1, value2) {
-return eval(operation+value1+value2);
+return eval(value1+operation+value2);
 }
 
 ### More about eval() function under link:
