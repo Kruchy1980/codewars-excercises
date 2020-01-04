@@ -5,3 +5,5 @@
 ### Excercise 73 - Squash the bugs
 
 ### Excercise 74 - Tip Calculator
+
+### Excercise 75 - Invert values
