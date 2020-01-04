@@ -3,3 +3,5 @@
 ### Excercise 72 - Grasshopper - Make change
 
 ### Excercise 73 - Squash the bugs
+
+### Excercise 74 - Tip Calculator
