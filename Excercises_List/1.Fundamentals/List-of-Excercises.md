@@ -7,3 +7,5 @@
 ### Excercise 74 - Tip Calculator
 
 ### Excercise 75 - Invert values
+
+### Excercise 76 - Is it a palindrome?
