@@ -12,12 +12,8 @@ Your points are not included in the array of your class's points. For calculatin
 
 ### Solution
 
-function betterThanAverage(classPoints, yourPoints) {
-
-##### It is the best way to use here reduce method to calculate the average in class specially without your score
-
-    return classPoints.reduce((p,n) => p + n ,0)/ classPoints.length < yourPoints ;
-
+function grow(x){
+return x.reduce((b,n) => b \* n);
 }
 
 ### More about reduce under url:
