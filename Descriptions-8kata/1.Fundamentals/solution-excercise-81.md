@@ -36,3 +36,7 @@ function sum(numbers) {
     return numbers.reduce((a, b) => a + b, 0);
 
 }
+
+### More about reduce under url:
+
+https://www.w3schools.com/jsref/jsref_reduce.asp

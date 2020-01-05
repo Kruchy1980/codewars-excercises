@@ -19,3 +19,5 @@
 ### Excercise 80 - Simple multiplication
 
 ### Excercise 81 - Sum Arrays
+
+### Excercise 82 - How good are you really?
