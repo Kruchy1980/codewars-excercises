@@ -17,3 +17,5 @@
 ### Excercise 79 - Find the smallest integer in the array
 
 ### Excercise 80 - Simple multiplication
+
+### Excercise 81 - Sum Arrays
