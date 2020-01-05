@@ -11,3 +11,5 @@
 ### Excercise 76 - Is it a palindrome?
 
 ### Excercise 77 - get ascii value of character
+
+### Excercise 78 - DNA to RNA Conversion
