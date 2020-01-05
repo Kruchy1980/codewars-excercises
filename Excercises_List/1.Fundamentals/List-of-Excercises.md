@@ -15,3 +15,5 @@
 ### Excercise 78 - DNA to RNA Conversion
 
 ### Excercise 79 - Find the smallest integer in the array
+
+### Excercise 80 - Simple multiplication
