@@ -13,3 +13,5 @@
 ### Excercise 77 - get ascii value of character
 
 ### Excercise 78 - DNA to RNA Conversion
+
+### Excercise 79 - Find the smallest integer in the array
