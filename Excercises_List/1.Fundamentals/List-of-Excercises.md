@@ -9,3 +9,5 @@
 ### Excercise 75 - Invert values
 
 ### Excercise 76 - Is it a palindrome?
+
+### Excercise 77 - get ascii value of character
