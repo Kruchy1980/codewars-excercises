@@ -24,4 +24,6 @@
 
 ### Excercise 83 - Beginner - Reduce but Grow
 
-### Excercise 84 -
+### Excercise 84 - Count by X
+
+### Excercise 85 - Array plus array
