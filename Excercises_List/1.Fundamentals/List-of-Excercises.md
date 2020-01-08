@@ -41,3 +41,5 @@
 ### Excercise 91 - String repeat
 
 ### Excercise 92 - Do you speak "English"?
+
+### Excercise 93 - Sum of positive
