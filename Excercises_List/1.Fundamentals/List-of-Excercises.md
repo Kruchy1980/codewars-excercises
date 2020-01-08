@@ -35,3 +35,5 @@
 ### Excercise 88 - Logical calculator
 
 ### Excercise 89 - Watermelon
+
+### Excercise 90 - Opposite number
