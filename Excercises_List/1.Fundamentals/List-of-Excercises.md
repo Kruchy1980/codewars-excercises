@@ -38,4 +38,4 @@
 
 ### Excercise 90 - Opposite number
 
-### Excercise 91 -
+### Excercise 91 - String repeat
