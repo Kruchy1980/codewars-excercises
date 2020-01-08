@@ -39,3 +39,5 @@
 ### Excercise 90 - Opposite number
 
 ### Excercise 91 - String repeat
+
+### Excercise 92 - Do you speak "English"?
