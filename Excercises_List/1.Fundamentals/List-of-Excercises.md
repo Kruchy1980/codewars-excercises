@@ -27,3 +27,13 @@
 ### Excercise 84 - Count by X
 
 ### Excercise 85 - Array plus array
+
+### Excercise 86 - Will you make it?
+
+### Excercise 87 - Grasshopper - Grade book
+
+### Excercise 88 - Logical calculator
+
+### Excercise 89 - Watermelon
+
+### Excercise 90 - Opposite number
