@@ -31,3 +31,5 @@
 ### Excercise 86 - Will you make it?
 
 ### Excercise 87 - Grasshopper - Grade book
+
+### Excercise 88 - Logical calculator
