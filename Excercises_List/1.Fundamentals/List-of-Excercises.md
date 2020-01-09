@@ -43,3 +43,7 @@
 ### Excercise 92 - Do you speak "English"?
 
 ### Excercise 93 - Sum of positive
+
+### Excercise 94 - Fake Binary
+
+### Excercise 95 - Is there a vowel in there?
