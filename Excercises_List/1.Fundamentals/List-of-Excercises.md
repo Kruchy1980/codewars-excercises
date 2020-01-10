@@ -47,3 +47,5 @@
 ### Excercise 94 - Fake Binary
 
 ### Excercise 95 - Is there a vowel in there?
+
+### Excercise 96 - Convert to Binary
