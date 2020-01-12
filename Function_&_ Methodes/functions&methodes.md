@@ -1,13 +1,14 @@
 # List of methodes:
 
-1. Concat - array.concat() method
-2. Reduce - array.reduce() method
-3. ToString - number.toString(2) Method
-4. Split - string.split() methode
-5. Map - array.map() methode
-6. Join - array.join() methode
-7. Test (for trgEx) - string.test() method
-8. FromCharCode - String.fromCharCode() method
+1. concat - array.concat() method
+2. reduce - array.reduce() method
+3. toString - number.toString(2) Method
+4. split - string.split() methode
+5. map - array.map() methode
+6. join - array.join() methode
+7. test (for trgEx) - string.test() method
+8. fromCharCode - String.fromCharCode() method
+9. toUpperCase - String.toUpperCase() method
 
 # Methodes:
 
@@ -43,6 +44,10 @@ https://www.w3schools.com/jsref/jsref_regexp_test.asp - string.test() method
 ### 8. String.fromCharCode() method
 
 https://www.w3schools.com/jsref/jsref_fromcharcode.asp - String.fromCharCode() method
+
+### 9. String.toUpperCase() method
+
+https://www.w3schools.com/jsref/jsref_touppercase.asp - string.toUpperCase() Method
 
 ==========================================================
 

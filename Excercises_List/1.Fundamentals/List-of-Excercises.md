@@ -57,3 +57,5 @@
 ### Excercise 99 - Bin to Decimal
 
 ### Excercise 100 - How many stairs will Suzuki climb in 20 years?
+
+### Excercise 101 - Is the string uppercase?
