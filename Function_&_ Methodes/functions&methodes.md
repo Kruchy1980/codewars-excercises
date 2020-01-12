@@ -35,6 +35,10 @@ https://www.w3schools.com/jsref/jsref_fromcharcode.asp - String.fromCharCode() m
 
 https://www.w3schools.com/jsref/jsref_number.asp - Number() function
 
+### parseInt() function
+
+https://www.w3schools.com/jsref/jsref_parseInt.asp
+
 # Other:
 
 ### Operators in JS
