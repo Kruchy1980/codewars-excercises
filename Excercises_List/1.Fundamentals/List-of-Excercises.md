@@ -61,3 +61,5 @@
 ### Excercise 101 - Is the string uppercase?
 
 ### Excercise 102 - Palindrome Strings
+
+### Excercise 103 - Convert number to reversed array of digits
