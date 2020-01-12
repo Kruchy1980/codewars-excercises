@@ -14,4 +14,8 @@ Repository has separate descriptions folder with explanation of solved tasks.
 
 This is a list with names of excercises numbered as .md and .js files - \* Will be updated soon.
 
-## That is all for now and hope you will find it good and helpfull for yourselfe.
+# Function & Methodes
+
+This is cataloge which includes url's to all the methodes and functions used in my solutions plus other needed informations - the file will be updated as it progress.
+
+## That is all for now and hope you will find it good and helpfull for yourself.

@@ -37,3 +37,23 @@
 ### Excercise 89 - Watermelon
 
 ### Excercise 90 - Opposite number
+
+### Excercise 91 - String repeat
+
+### Excercise 92 - Do you speak "English"?
+
+### Excercise 93 - Sum of positive
+
+### Excercise 94 - Fake Binary
+
+### Excercise 95 - Is there a vowel in there?
+
+### Excercise 96 - Convert to Binary
+
+### Excercise 97 - You Can't Code Under Pressure #1
+
+### Excercise 98 - Convert a Number to a String!
+
+### Excercise 99 - Bin to Decimal
+
+### Excercise 100 - How many stairs will Suzuki climb in 20 years?
