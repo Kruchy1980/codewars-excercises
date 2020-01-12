@@ -10,6 +10,7 @@
 8. S fromCharCode - String.fromCharCode() method - S
 9. S toUpperCase - String.toUpperCase() method - S
 10. A reverse() - Array.reverse() method - A
+11. A includes() - Array.includes() method - A
 
 # Methodes:
 
@@ -53,6 +54,10 @@ https://www.w3schools.com/jsref/jsref_touppercase.asp - string.toUpperCase() Met
 ### 10. Array.reverse() method
 
 https://www.w3schools.com/jsref/jsref_reverse.asp - array.reverse() method
+
+### 11. Array.includes() method
+
+https://www.w3schools.com/jsref/jsref_includes_array.asp - Array.includes() method
 
 ==========================================================
 

@@ -63,3 +63,5 @@
 ### Excercise 102 - Palindrome Strings
 
 ### Excercise 103 - Convert number to reversed array of digits
+
+### Excercise 104 - You only need one - Beginner
