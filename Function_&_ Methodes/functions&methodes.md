@@ -34,3 +34,9 @@ https://www.w3schools.com/jsref/jsref_fromcharcode.asp - String.fromCharCode() m
 ### Number() Function
 
 https://www.w3schools.com/jsref/jsref_number.asp - Number() function
+
+# Other:
+
+### Operators in JS
+
+https://www.w3schools.com/jsref/jsref_operators.asp
