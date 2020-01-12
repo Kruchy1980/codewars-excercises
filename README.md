@@ -16,6 +16,6 @@ This is a list with names of excercises numbered as .md and .js files - \* Will 
 
 # Function & Methodes
 
-This is cataloge which includes url's to all the methodes and functions used in my solutions - the file will be update as it progress.
+This is cataloge which includes url's to all the methodes and functions used in my solutions plus other needed informations - the file will be updated as it progress.
 
 ## That is all for now and hope you will find it good and helpfull for yourself.
