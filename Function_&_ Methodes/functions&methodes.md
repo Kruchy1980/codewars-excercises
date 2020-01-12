@@ -84,6 +84,7 @@ https://www.w3schools.com/jsref/jsref_parseInt.asp
 
 1. Operators in JS
 2. ...array - spread operaror
+3. for statement
 
 ### 1.Operators in JS
 
@@ -92,3 +93,7 @@ https://www.w3schools.com/jsref/jsref_operators.asp
 ### 2. ...array - spread operaror
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax - ...array - spread operaror
+
+### 3. for statement
+
+https://www.w3schools.com/jsref/jsref_for.asp - for statement
