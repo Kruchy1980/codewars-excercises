@@ -1,14 +1,15 @@
 # List of methodes:
 
-1. concat - array.concat() method
-2. reduce - array.reduce() method
-3. toString - number.toString(2) Method
-4. split - string.split() methode
-5. map - array.map() methode
-6. join - array.join() methode
-7. test (for trgEx) - string.test() method
-8. fromCharCode - String.fromCharCode() method
-9. toUpperCase - String.toUpperCase() method
+1. A concat - array.concat() method - A
+2. A reduce - array.reduce() method - A
+3. N toString - number.toString(2) Method - N
+4. S split - string.split() methode - S
+5. A map - array.map() methode - A
+6. A join - array.join() methode - A
+7. S test (for regEx) - string.test() method - S
+8. S fromCharCode - String.fromCharCode() method - S
+9. S toUpperCase - String.toUpperCase() method - S
+10. A reverse() - Array.reverse() method - A
 
 # Methodes:
 
@@ -23,7 +24,7 @@ https://www.w3schools.com/jsref/jsref_reduce.asp - array.reduce() method
 ### 3.number.toString() Method
 
 https://www.w3schools.com/jsref/jsref_tostring_number.asp
-number.toString(2) Method and expalanation values in the brackets
+number.toString()
 
 ### 4. string.split() methode
 
@@ -48,6 +49,10 @@ https://www.w3schools.com/jsref/jsref_fromcharcode.asp - String.fromCharCode() m
 ### 9. String.toUpperCase() method
 
 https://www.w3schools.com/jsref/jsref_touppercase.asp - string.toUpperCase() Method
+
+### 10. Array.reverse() method
+
+https://www.w3schools.com/jsref/jsref_reverse.asp - array.reverse() method
 
 ==========================================================
 

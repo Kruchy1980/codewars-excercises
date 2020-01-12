@@ -59,3 +59,5 @@
 ### Excercise 100 - How many stairs will Suzuki climb in 20 years?
 
 ### Excercise 101 - Is the string uppercase?
+
+### Excercise 102 - Palindrome Strings
