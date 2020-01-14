@@ -57,3 +57,23 @@
 ### Excercise 99 - Bin to Decimal
 
 ### Excercise 100 - How many stairs will Suzuki climb in 20 years?
+
+### Excercise 101 - Is the string uppercase?
+
+### Excercise 102 - Palindrome Strings
+
+### Excercise 103 - Convert number to reversed array of digits
+
+### Excercise 104 - You only need one - Beginner
+
+### Excercise 105 - If you can't sleep, just count sheep!!
+
+### Excercise 106 - Find Nearest square number
+
+### Excercise 107 - Sentence Smash
+
+### Excercise 108 - Convert a Boolean to a String
+
+### Excercise 109 - Hex to Decimal
+
+### Excercise 110 - All Star Code Challenge #18
