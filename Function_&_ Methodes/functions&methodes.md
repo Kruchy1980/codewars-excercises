@@ -11,6 +11,7 @@
 9. S toUpperCase - String.toUpperCase() method - S
 10. A reverse() - Array.reverse() method - A
 11. A includes() - Array.includes() method - A
+12. M Math.round() - one of Mathematical methodes - M
 
 # Methodes:
 
@@ -58,6 +59,10 @@ https://www.w3schools.com/jsref/jsref_reverse.asp - array.reverse() method
 ### 11. Array.includes() method
 
 https://www.w3schools.com/jsref/jsref_includes_array.asp - Array.includes() method
+
+### 12. Math.round() method:
+
+https://www.w3schools.com/jsref/jsref_round.asp - Math.round - math methode in javascript
 
 ==========================================================
 

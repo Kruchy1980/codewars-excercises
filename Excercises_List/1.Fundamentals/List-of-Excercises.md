@@ -67,3 +67,5 @@
 ### Excercise 104 - You only need one - Beginner
 
 ### Excercise 105 - If you can't sleep, just count sheep!!
+
+### Excercise 106 - Find Nearest square number
