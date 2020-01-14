@@ -75,3 +75,5 @@
 ### Excercise 108 - Convert a Boolean to a String
 
 ### Excercise 109 - Hex to Decimal
+
+### Excercise 110 - All Star Code Challenge #18
