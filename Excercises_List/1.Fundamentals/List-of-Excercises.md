@@ -71,3 +71,5 @@
 ### Excercise 106 - Find Nearest square number
 
 ### Excercise 107 - Sentence Smash
+
+### Excercise 108 - Convert a Boolean to a String
