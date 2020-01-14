@@ -79,7 +79,7 @@ https://www.w3schools.com/jsref/jsref_number.asp - Number() function
 
 ### 2. parseInt() function
 
-https://www.w3schools.com/jsref/jsref_parseInt.asp
+https://www.w3schools.com/jsref/jsref_parseInt.asp - parseInt() function
 
 ==========================================================
 

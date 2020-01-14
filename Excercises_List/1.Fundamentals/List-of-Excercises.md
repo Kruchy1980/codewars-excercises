@@ -73,3 +73,5 @@
 ### Excercise 107 - Sentence Smash
 
 ### Excercise 108 - Convert a Boolean to a String
+
+### Excercise 109 - Hex to Decimal
