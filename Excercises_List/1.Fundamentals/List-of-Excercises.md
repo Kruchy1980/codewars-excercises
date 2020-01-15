@@ -79,3 +79,7 @@
 ### Excercise 110 - All Star Code Challenge #18
 
 ### Excercise 111 - Find out whether the shape is a cube
+
+### Excercise 112 - Who is going to pay for the wall? !!!! broken in many languages on codewars sorry for solution is not mine.
+
+### Excercise 113 -
