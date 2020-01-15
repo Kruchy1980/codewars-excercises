@@ -93,7 +93,7 @@ https://www.w3schools.com/jsref/jsref_parseInt.asp - parseInt() function
 
 ### 1.Operators in JS
 
-https://www.w3schools.com/jsref/jsref_operators.asp
+https://www.w3schools.com/jsref/jsref_operators.asp - operators in JavaScript
 
 ### 2. ...array - spread operaror
 

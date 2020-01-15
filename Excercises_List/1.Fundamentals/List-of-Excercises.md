@@ -77,3 +77,5 @@
 ### Excercise 109 - Hex to Decimal
 
 ### Excercise 110 - All Star Code Challenge #18
+
+### Excercise 111 - Find out whether the shape is a cube
