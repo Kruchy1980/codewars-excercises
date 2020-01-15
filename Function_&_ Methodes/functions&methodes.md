@@ -13,6 +13,7 @@
 11. A includes() - Array.includes() method - A
 12. M Math.round() - one of Mathematical methodes - M
 13. S Replace - String.replace() method - S
+14. M Math.flooe() - rounding MAth methode - M
 
 # Methodes:
 
@@ -68,6 +69,10 @@ https://www.w3schools.com/jsref/jsref_round.asp - Math.round - math methode in j
 ### 13. String.replace() method
 
 https://www.w3schools.com/jsref/jsref_replace.asp - string.replace method
+
+### 14. Math.floor() method
+
+https://www.w3schools.com/jsref/jsref_floor.asp - Math.floor() method
 
 ==========================================================
 
