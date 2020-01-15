@@ -83,3 +83,5 @@
 ### Excercise 112 - Who is going to pay for the wall? !!!! broken in many languages on codewars sorry for solution is not mine.
 
 ### Excercise 113 - Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right
+
+### Excercise 114 - Welcome!
