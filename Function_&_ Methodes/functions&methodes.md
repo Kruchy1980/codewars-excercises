@@ -12,6 +12,7 @@
 10. A reverse() - Array.reverse() method - A
 11. A includes() - Array.includes() method - A
 12. M Math.round() - one of Mathematical methodes - M
+13. S Replace - String.replace() method - S
 
 # Methodes:
 
@@ -63,6 +64,10 @@ https://www.w3schools.com/jsref/jsref_includes_array.asp - Array.includes() meth
 ### 12. Math.round() method:
 
 https://www.w3schools.com/jsref/jsref_round.asp - Math.round - math methode in javascript
+
+### 13. String.replace() method
+
+https://www.w3schools.com/jsref/jsref_replace.asp - string.replace method
 
 ==========================================================
 
