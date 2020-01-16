@@ -89,3 +89,5 @@
 ### Excercise 115 - Count Odd Numbers below n
 
 ### Excercise 116 - What's up next?
+
+### Excercise 117 - Thinkful - Number Drills: Blue and red marbles
