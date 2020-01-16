@@ -87,3 +87,5 @@
 ### Excercise 114 - Welcome!
 
 ### Excercise 115 - Count Odd Numbers below n
+
+### Excercise 116 - What's up next?
