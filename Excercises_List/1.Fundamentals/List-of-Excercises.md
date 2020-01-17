@@ -93,5 +93,7 @@
 ### Excercise 117 - Thinkful - Number Drills: Blue and red marbles
 
 ### Excercise 118 - Return the day
+
 ### Excercise 119 - Training JS #8: Conditional statement--switch
 
+### Excercise 120 - Training JS #5: Basic data types--Object
