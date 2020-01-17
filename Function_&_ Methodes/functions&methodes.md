@@ -100,7 +100,8 @@ https://www.w3schools.com/jsref/jsref_parseInt.asp - parseInt() function
 1. Operators in JS
 2. ...array - spread operaror
 3. for statement
-   4, for ...of statement
+4. for ...of statement
+5. switch statement
 
 ### 1.Operators in JS
 
@@ -117,3 +118,7 @@ https://www.w3schools.com/jsref/jsref_for.asp - for statement
 ### 4. for...of statement
 
 https://www.w3schools.com/jsref/jsref_forof.asp - for...of loop statement
+
+### 5. switch statement
+
+https://www.w3schools.com/js/js_switch.asp - switch(){} statement

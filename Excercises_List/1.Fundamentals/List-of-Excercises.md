@@ -91,3 +91,7 @@
 ### Excercise 116 - What's up next?
 
 ### Excercise 117 - Thinkful - Number Drills: Blue and red marbles
+
+### Excercise 118 - Return the day
+### Excercise 119 - Training JS #8: Conditional statement--switch
+
