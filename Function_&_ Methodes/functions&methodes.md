@@ -14,6 +14,8 @@
 12. M Math.round() - one of Mathematical methodes - M
 13. S Replace - String.replace() method - S
 14. M Math.floor() - rounding MAth methode - M
+15. S toLowerCase() - String.toLowerCase() method - S
+16. S slice() - String.slice() method - S
 
 # Methodes:
 
@@ -73,6 +75,14 @@ https://www.w3schools.com/jsref/jsref_replace.asp - string.replace method
 ### 14. Math.floor() method
 
 https://www.w3schools.com/jsref/jsref_floor.asp - Math.floor() method
+
+### 15. String.toLowerCase() method
+
+https://www.w3schools.com/jsref/jsref_toulowercase.asp - string.toLowerCase() Method
+
+### 16.String.slice() method
+
+https://www.w3schools.com/jsref/jsref_slice_string.asp - string.slice() method
 
 ==========================================================
 

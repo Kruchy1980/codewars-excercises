@@ -14,8 +14,12 @@ Names given are always valid strings.
 function areYouPlayingBanjo(name) {
 // Implement me
 
-##### Usage of template strings is only the one solution but for me looks good
+##### Usage of template strings is only the one solution but for me looks good beside we need to check what letter name starts and it can be writtel lower or upperCase letter so we can change the letter to one only dimension i choose lowerCase() methode.
 
     return name[0].toLowerCase() === 'r' ? `${name} plays banjo` : `${name} does not play banjo`;
 
 }
+
+
+### More about toLowerCase methode under url:
+
