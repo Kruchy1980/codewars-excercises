@@ -1,19 +1,19 @@
 # List of methodes:
 
 1. A concat - array.concat() method - A
-2. A reduce - array.reduce() method - A
-3. N toString - number.toString(2) Method - N
-4. S split - string.split() methode - S
-5. A map - array.map() methode - A
-6. A join - array.join() methode - A
+2. A reduce() - array.reduce() method - A
+3. N toString() - number.toString(2) Method - N
+4. S split() - string.split() methode - S
+5. A map() - array.map() methode - A
+6. A join() - array.join() methode - A
 7. S test (for regEx) - string.test() method - S
-8. S fromCharCode - String.fromCharCode() method - S
-9. S toUpperCase - String.toUpperCase() method - S
+8. S fromCharCode() - String.fromCharCode() method - S
+9. S toUpperCase() - String.toUpperCase() method - S
 10. A reverse() - Array.reverse() method - A
 11. A includes() - Array.includes() method - A
 12. M Math.round() - one of Mathematical methodes - M
 13. S Replace - String.replace() method - S
-14. M Math.flooe() - rounding MAth methode - M
+14. M Math.floor() - rounding MAth methode - M
 
 # Methodes:
 
@@ -102,6 +102,7 @@ https://www.w3schools.com/jsref/jsref_parseInt.asp - parseInt() function
 3. for statement
 4. for ...of statement
 5. switch statement
+6. length property
 
 ### 1.Operators in JS
 
@@ -122,3 +123,7 @@ https://www.w3schools.com/jsref/jsref_forof.asp - for...of loop statement
 ### 5. switch statement
 
 https://www.w3schools.com/js/js_switch.asp - switch(){} statement
+
+### 6. length property
+
+https://stackoverflow.com/questions/3884632/how-to-get-the-last-character-of-a-string - length property

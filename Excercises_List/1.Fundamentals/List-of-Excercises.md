@@ -97,3 +97,7 @@
 ### Excercise 119 - Training JS #8: Conditional statement--switch
 
 ### Excercise 120 - Training JS #5: Basic data types--Object
+
+### Excercise 121 - The Feast of Many Beasts
+
+### Excercise 122 - Are You Playing Banjo?
