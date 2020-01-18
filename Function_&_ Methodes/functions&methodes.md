@@ -1,17 +1,21 @@
 # List of methodes:
 
 1. A concat - array.concat() method - A
-2. A reduce - array.reduce() method - A
-3. N toString - number.toString(2) Method - N
-4. S split - string.split() methode - S
-5. A map - array.map() methode - A
-6. A join - array.join() methode - A
+2. A reduce() - array.reduce() method - A
+3. N toString() - number.toString(2) Method - N
+4. S split() - string.split() methode - S
+5. A map() - array.map() methode - A
+6. A join() - array.join() methode - A
 7. S test (for regEx) - string.test() method - S
-8. S fromCharCode - String.fromCharCode() method - S
-9. S toUpperCase - String.toUpperCase() method - S
+8. S fromCharCode() - String.fromCharCode() method - S
+9. S toUpperCase() - String.toUpperCase() method - S
 10. A reverse() - Array.reverse() method - A
 11. A includes() - Array.includes() method - A
 12. M Math.round() - one of Mathematical methodes - M
+13. S Replace - String.replace() method - S
+14. M Math.floor() - rounding MAth methode - M
+15. S toLowerCase() - String.toLowerCase() method - S
+16. S slice() - String.slice() method - S
 
 # Methodes:
 
@@ -64,6 +68,22 @@ https://www.w3schools.com/jsref/jsref_includes_array.asp - Array.includes() meth
 
 https://www.w3schools.com/jsref/jsref_round.asp - Math.round - math methode in javascript
 
+### 13. String.replace() method
+
+https://www.w3schools.com/jsref/jsref_replace.asp - string.replace method
+
+### 14. Math.floor() method
+
+https://www.w3schools.com/jsref/jsref_floor.asp - Math.floor() method
+
+### 15. String.toLowerCase() method
+
+https://www.w3schools.com/jsref/jsref_toulowercase.asp - string.toLowerCase() Method
+
+### 16.String.slice() method
+
+https://www.w3schools.com/jsref/jsref_slice_string.asp - string.slice() method
+
 ==========================================================
 
 # Functions list:
@@ -90,10 +110,13 @@ https://www.w3schools.com/jsref/jsref_parseInt.asp - parseInt() function
 1. Operators in JS
 2. ...array - spread operaror
 3. for statement
+4. for ...of statement
+5. switch statement
+6. length property
 
 ### 1.Operators in JS
 
-https://www.w3schools.com/jsref/jsref_operators.asp
+https://www.w3schools.com/jsref/jsref_operators.asp - operators in JavaScript
 
 ### 2. ...array - spread operaror
 
@@ -102,3 +125,15 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spre
 ### 3. for statement
 
 https://www.w3schools.com/jsref/jsref_for.asp - for statement
+
+### 4. for...of statement
+
+https://www.w3schools.com/jsref/jsref_forof.asp - for...of loop statement
+
+### 5. switch statement
+
+https://www.w3schools.com/js/js_switch.asp - switch(){} statement
+
+### 6. length property
+
+https://stackoverflow.com/questions/3884632/how-to-get-the-last-character-of-a-string - length property
