@@ -111,3 +111,5 @@
 ### Excercise 126 - Reversed sequence
 
 ### Excercise 127 - Parse nice int from char problem
+
+### Excercise 128 - Removing Elements
