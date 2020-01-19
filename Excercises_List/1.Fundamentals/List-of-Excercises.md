@@ -109,3 +109,5 @@
 ### Excercise 125 - Reverse List Order
 
 ### Excercise 126 - Reversed sequence
+
+### Excercise 127 - Parse nice int from char problem
