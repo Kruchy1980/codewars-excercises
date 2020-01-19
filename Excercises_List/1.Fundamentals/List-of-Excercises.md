@@ -115,3 +115,6 @@
 ### Excercise 128 - Removing Elements
 
 ### Excercise 129 - Is he gonna survive?
+
+### Excercise 130 - Volume of a Cuboid
+
