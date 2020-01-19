@@ -1,1 +1,5 @@
-// Reverse List Order
+// Reversed sequence
+
+function reverseList(list) {
+    return list.reverse();
+}

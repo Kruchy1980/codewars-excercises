@@ -107,3 +107,5 @@
 ### Excercise 124 - Remove exclamation marks
 
 ### Excercise 125 - Reverse List Order
+
+### Excercise 126 - Reversed sequence

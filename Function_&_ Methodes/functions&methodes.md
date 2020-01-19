@@ -16,6 +16,7 @@
 14. M Math.floor() - rounding MAth methode - M
 15. S toLowerCase() - String.toLowerCase() method - S
 16. S slice() - String.slice() method - S
+17. A push() - Array.push() method -A
 
 # Methodes:
 
@@ -83,6 +84,10 @@ https://www.w3schools.com/jsref/jsref_toulowercase.asp - string.toLowerCase() Me
 ### 16.String.slice() method
 
 https://www.w3schools.com/jsref/jsref_slice_string.asp - string.slice() method
+
+### 17. Arraay.push() method
+
+https://www.w3schools.com/jsref/jsref_push.asp - array.push() method
 
 ==========================================================
 
