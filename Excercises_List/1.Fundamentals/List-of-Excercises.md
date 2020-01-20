@@ -121,3 +121,7 @@
 ### Excercise 131 - Function 2 - squaring an argument
 
 ### Excercise 132 - Transportation on vacation
+
+### Excercise 133 - Hello, Name or World!
+
+### Excercise 134 -
