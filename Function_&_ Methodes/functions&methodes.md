@@ -18,6 +18,7 @@
 16. S slice() - String.slice() method - S
 17. A push() - Array.push() method - A
 18. A filter() - Array.filter() method - A
+19. A some() = Array.some() method - a
 
 # Methodes:
 
@@ -90,9 +91,13 @@ https://www.w3schools.com/jsref/jsref_slice_string.asp - string.slice() method
 
 https://www.w3schools.com/jsref/jsref_push.asp - array.push() method
 
-### 17. Arraay.filter() method
+### 18. Arraay.filter() method
 
 https://www.w3schools.com/jsref/jsref_filter.asp - array.filter() method
+
+### 19. Array.some() method
+
+https://www.w3schools.com/jsref/jsref_some.asp - arr.some() method
 
 ==========================================================
 
