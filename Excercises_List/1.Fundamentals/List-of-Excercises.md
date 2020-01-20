@@ -119,3 +119,5 @@
 ### Excercise 130 - Volume of a Cuboid
 
 ### Excercise 131 - Function 2 - squaring an argument
+
+### Excercise 132 - Transportation on vacation
