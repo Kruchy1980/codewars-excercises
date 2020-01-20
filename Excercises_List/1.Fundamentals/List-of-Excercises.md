@@ -107,3 +107,14 @@
 ### Excercise 124 - Remove exclamation marks
 
 ### Excercise 125 - Reverse List Order
+
+### Excercise 126 - Reversed sequence
+
+### Excercise 127 - Parse nice int from char problem
+
+### Excercise 128 - Removing Elements
+
+### Excercise 129 - Is he gonna survive?
+
+### Excercise 130 - Volume of a Cuboid
+
