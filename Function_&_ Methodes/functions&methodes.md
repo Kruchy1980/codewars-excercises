@@ -128,6 +128,7 @@ https://www.w3schools.com/jsref/jsref_parseInt.asp - parseInt() function
 4. for ...of statement
 5. switch statement
 6. length property
+7. OOP static method
 
 ### 1.Operators in JS
 
@@ -152,3 +153,7 @@ https://www.w3schools.com/js/js_switch.asp - switch(){} statement
 ### 6. length property
 
 https://stackoverflow.com/questions/3884632/how-to-get-the-last-character-of-a-string - length property
+
+### 7. OOP static method
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static - OOP static method in javascript
