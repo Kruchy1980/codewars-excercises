@@ -129,3 +129,9 @@
 ### Excercise 135 - Enumerable Magic #4 - True for None?
 
 ### Excercise 136 - Classic Hello World
+
+### Excercise 137 - Enumerable Magic #2 - True for Any?
+
+### Excercise 138 - Holiday VIII - Duty Free
+
+### Excercise 139 - Enumerable Magic #3 - Does My List Include This?
