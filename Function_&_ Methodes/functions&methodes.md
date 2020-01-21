@@ -19,7 +19,7 @@
 17. A push() - Array.push() method - A
 18. A filter() - Array.filter() method - A
 19. A some() - Array.some() method - A
-20. M Math.floor() - Rounding down MAth.method - M
+20. M Math.ceil() - Rounding down MAth.method - M
 
 # Methodes:
 
@@ -100,9 +100,9 @@ https://www.w3schools.com/jsref/jsref_filter.asp - array.filter() method
 
 https://www.w3schools.com/jsref/jsref_some.asp - arr.some() method
 
-### 20. Math.floor() method
+### 20. Math.ceil() method
 
-https://www.w3schools.com/jsref/jsref_floor.asp - Math.floor() method
+https://www.w3schools.com/jsref/jsref_ceil.asp - Math.ceil() method
 
 ==========================================================
 
