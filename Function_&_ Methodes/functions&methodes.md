@@ -18,6 +18,8 @@
 16. S slice() - String.slice() method - S
 17. A push() - Array.push() method - A
 18. A filter() - Array.filter() method - A
+19. A some() - Array.some() method - A
+20. M Math.ceil() - Rounding down MAth.method - M
 
 # Methodes:
 
@@ -90,9 +92,17 @@ https://www.w3schools.com/jsref/jsref_slice_string.asp - string.slice() method
 
 https://www.w3schools.com/jsref/jsref_push.asp - array.push() method
 
-### 17. Arraay.filter() method
+### 18. Aray.filter() method
 
 https://www.w3schools.com/jsref/jsref_filter.asp - array.filter() method
+
+### 19. Array.some() method
+
+https://www.w3schools.com/jsref/jsref_some.asp - arr.some() method
+
+### 20. Math.ceil() method
+
+https://www.w3schools.com/jsref/jsref_ceil.asp - Math.ceil() method
 
 ==========================================================
 
@@ -123,6 +133,7 @@ https://www.w3schools.com/jsref/jsref_parseInt.asp - parseInt() function
 4. for ...of statement
 5. switch statement
 6. length property
+7. OOP static method
 
 ### 1.Operators in JS
 
@@ -147,3 +158,7 @@ https://www.w3schools.com/js/js_switch.asp - switch(){} statement
 ### 6. length property
 
 https://stackoverflow.com/questions/3884632/how-to-get-the-last-character-of-a-string - length property
+
+### 7. OOP static method
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static - OOP static method in javascript

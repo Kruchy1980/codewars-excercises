@@ -118,3 +118,22 @@
 
 ### Excercise 130 - Volume of a Cuboid
 
+### Excercise 131 - Function 2 - squaring an argument
+
+### Excercise 132 - Transportation on vacation
+
+### Excercise 133 - Hello, Name or World!
+
+### Excercise 134 - Twice as old
+
+### Excercise 135 - Enumerable Magic #4 - True for None?
+
+### Excercise 136 - Classic Hello World
+
+### Excercise 137 - Enumerable Magic #2 - True for Any?
+
+### Excercise 138 - Holiday VIII - Duty Free
+
+### Excercise 139 - Enumerable Magic #3 - Does My List Include This?
+
+### Excercise 140 - Training JS #32: methods of Math---round() ceil() and floor()
