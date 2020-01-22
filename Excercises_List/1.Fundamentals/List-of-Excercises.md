@@ -137,3 +137,5 @@
 ### Excercise 139 - Enumerable Magic #3 - Does My List Include This?
 
 ### Excercise 140 - Training JS #32: methods of Math---round() ceil() and floor()
+
+### Excercise 141 - Pillars
