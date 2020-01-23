@@ -141,3 +141,9 @@
 ### Excercise 141 - Pillars
 
 ### Excercise 142 - Thinkful - Number Drills: Pixelart planning
+
+### Excercise 143 - Grasshopper - Create the rooms
+
+### Excercise 144 -
+
+### Excercise 145 -
