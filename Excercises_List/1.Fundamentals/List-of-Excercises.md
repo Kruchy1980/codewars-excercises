@@ -139,3 +139,5 @@
 ### Excercise 140 - Training JS #32: methods of Math---round() ceil() and floor()
 
 ### Excercise 141 - Pillars
+
+### Excercise 142 - Thinkful - Number Drills: Pixelart planning
