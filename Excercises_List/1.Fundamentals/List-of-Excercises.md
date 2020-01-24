@@ -149,3 +149,5 @@
 ### Excercise 145 - Opposites Attract
 
 ### Excercise 146 - Returning Strings
+
+### Excercise 147 - Beginner Series #2 Clock
