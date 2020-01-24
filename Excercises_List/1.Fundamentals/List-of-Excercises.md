@@ -153,3 +153,5 @@
 ### Excercise 147 - Beginner Series #2 Clock
 
 ### Excercise 148 - Total pressure calculation
+
+### Excercise 149 - Function 3 - multiplying two numbers
