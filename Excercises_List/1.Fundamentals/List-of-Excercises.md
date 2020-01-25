@@ -148,3 +148,12 @@
 
 ### Excercise 145 - Opposites Attract
 
+### Excercise 146 - Returning Strings
+
+### Excercise 147 - Beginner Series #2 Clock
+
+### Excercise 148 - Total pressure calculation
+
+### Excercise 149 - Function 3 - multiplying two numbers
+
+### Excercise 150 - Exclusive "or" (xor) Logical Operator
