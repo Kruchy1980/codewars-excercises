@@ -163,3 +163,6 @@
 ### Excercise 152 - Calculate average
 
 ### Excercise 153 - Switch it Up!
+
+### Excercise 154 - Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence
+
