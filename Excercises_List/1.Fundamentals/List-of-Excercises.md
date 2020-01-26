@@ -159,3 +159,5 @@
 ### Excercise 150 - Exclusive "or" (xor) Logical Operator
 
 ### Excercise 151 - What's the real floor?
+### Excercise 152 - Calculate average
+
