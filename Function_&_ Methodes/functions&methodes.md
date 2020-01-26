@@ -134,6 +134,7 @@ https://www.w3schools.com/jsref/jsref_parseInt.asp - parseInt() function
 5. switch statement
 6. length property
 7. OOP static method
+8. RegExp.
 
 ### 1.Operators in JS
 
@@ -162,3 +163,7 @@ https://stackoverflow.com/questions/3884632/how-to-get-the-last-character-of-a-s
 ### 7. OOP static method
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static - OOP static method in javascript
+
+### 8. RegExp
+
+https://www.w3schools.com/js/js_regexp.asp - regExp

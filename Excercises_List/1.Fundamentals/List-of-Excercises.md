@@ -157,3 +157,13 @@
 ### Excercise 149 - Function 3 - multiplying two numbers
 
 ### Excercise 150 - Exclusive "or" (xor) Logical Operator
+
+### Excercise 151 - What's the real floor?
+
+### Excercise 152 - Calculate average
+
+### Excercise 153 - Switch it Up!
+
+### Excercise 154 - Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence
+
+### Excercise 155 - Beginner Series #4 Cockroach
