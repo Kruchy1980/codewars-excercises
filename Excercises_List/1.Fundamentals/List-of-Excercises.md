@@ -157,3 +157,5 @@
 ### Excercise 149 - Function 3 - multiplying two numbers
 
 ### Excercise 150 - Exclusive "or" (xor) Logical Operator
+
+### Excercise 151 - What's the real floor?
