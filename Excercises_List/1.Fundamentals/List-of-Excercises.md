@@ -169,3 +169,5 @@
 ### Excercise 155 - Beginner Series #4 Cockroach
 
 ### Excercise 156 - Is it a number?
+
+### Excercise 157 - Determine offspring sex based on genes XX and XY chromosomes
