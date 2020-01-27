@@ -110,6 +110,7 @@ https://www.w3schools.com/jsref/jsref_ceil.asp - Math.ceil() method
 
 1. Number - Number() Function
 2. ParseInt - parseInt() function
+3. ParseFloat - parseFloat() function
 
 # Functions:
 
@@ -120,6 +121,10 @@ https://www.w3schools.com/jsref/jsref_number.asp - Number() function
 ### 2. parseInt() function
 
 https://www.w3schools.com/jsref/jsref_parseInt.asp - parseInt() function
+
+### 3. parseFloat() function
+
+https://www.w3schools.com/jsref/jsref_parsefloat.asp - parseFloat() function
 
 ==========================================================
 
