@@ -34,11 +34,11 @@ https://www.w3schools.com/jsref/jsref_reduce.asp - array.reduce() method
 ### 3.number.toString() Method
 
 https://www.w3schools.com/jsref/jsref_tostring_number.asp
-number.toString()
+number.toString() method
 
 ### 4. string.split() methode
 
-https://www.w3schools.com/jsref/jsref_split.asp - string.split() methode.
+https://www.w3schools.com/jsref/jsref_split.asp - string.split() method.
 
 ### 5. array.map() methode
 
@@ -46,7 +46,7 @@ https://www.w3schools.com/jsref/jsref_map.asp - array.map() method
 
 ### 6. array.join() methode
 
-https://www.w3schools.com/jsref/jsref_join.asp - array.join('') methode
+https://www.w3schools.com/jsref/jsref_join.asp - array.join('') method
 
 ### 7. string.test() method
 
