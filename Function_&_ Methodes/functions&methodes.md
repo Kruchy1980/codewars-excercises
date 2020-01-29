@@ -139,8 +139,8 @@ https://www.w3schools.com/jsref/jsref_parsefloat.asp - parseFloat() function
 
 1. Operators in JS
 2. ...array - spread operaror
-3. for statement
-4. for ...of statement
+3. for loop
+4. for ...of loop
 5. switch statement
 6. length property
 7. OOP static method
@@ -154,11 +154,11 @@ https://www.w3schools.com/jsref/jsref_operators.asp - operators in JavaScript
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax - ...array - spread operaror
 
-### 3. for statement
+### 3. for loop
 
 https://www.w3schools.com/jsref/jsref_for.asp - for statement
 
-### 4. for...of statement
+### 4. for...of loop
 
 https://www.w3schools.com/jsref/jsref_forof.asp - for...of loop statement
 

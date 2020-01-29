@@ -17,7 +17,7 @@ sleigh.authenticate("jhoffner", "CodeWars"); // Nope, even Jake is not allowed t
 
 function Sleigh() {}
 
-### There is not a problem with this xcercise just enough to set correct password and name
+### There is not a problem with this excercise just enough to set correct password and name
 
     Sleigh.prototype.authenticate = function(name, password) {
     return (name === 'Santa Claus' && password === 'Ho Ho Ho!');

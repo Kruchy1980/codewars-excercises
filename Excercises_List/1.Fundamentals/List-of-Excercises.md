@@ -183,3 +183,5 @@
 ### Excercise 162 - Remove duplicates from list
 
 ### Excercise 163 - Sleigh Authentication
+
+### Excercise 164 - Sum of Multiples
