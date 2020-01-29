@@ -180,3 +180,4 @@
 
 ### Excercise 161 - Holiday VI - Shark Pontoon
 
+### Excercise 162 - Remove duplicates from list

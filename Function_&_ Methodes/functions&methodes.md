@@ -20,6 +20,7 @@
 18. A filter() - Array.filter() method - A
 19. A some() - Array.some() method - A
 20. M Math.ceil() - Rounding down MAth.method - M
+21. El new Set() - sets in javascript - El
 
 # Methodes:
 
@@ -103,6 +104,10 @@ https://www.w3schools.com/jsref/jsref_some.asp - arr.some() method
 ### 20. Math.ceil() method
 
 https://www.w3schools.com/jsref/jsref_ceil.asp - Math.ceil() method
+
+### 21. new Set(element) method
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set - new Set() Method
 
 ==========================================================
 
