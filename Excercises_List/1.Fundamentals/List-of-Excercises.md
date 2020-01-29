@@ -175,3 +175,5 @@
 ### Excercise 158 - Geometry Basics: Circle Circumference in 2D
 
 ### Excercise 159 - Training JS #18: Methods of String object--concat() split() and its good friend join()
+
+### Excercise 160 - Basic subclasses - Adam and Eve
