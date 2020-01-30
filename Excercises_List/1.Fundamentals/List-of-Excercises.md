@@ -189,3 +189,5 @@
 ### Excercise 165 - Merge two sorted arrays into one
 
 ### Excercise 166 - Cat years, Dog years
+
+### Excercise 167 - CSV representation of array
