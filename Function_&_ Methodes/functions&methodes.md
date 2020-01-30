@@ -76,7 +76,7 @@ https://www.w3schools.com/jsref/jsref_round.asp - Math.round - math methode in j
 
 ### 13. String.replace() method
 
-https://www.w3schools.com/jsref/jsref_replace.asp - string.replace method
+https://www.w3schools.com/jsref/jsref_replace.asp - string.replace() method
 
 ### 14. Math.floor() method
 
