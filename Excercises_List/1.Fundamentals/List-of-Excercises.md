@@ -185,3 +185,5 @@
 ### Excercise 163 - Sleigh Authentication
 
 ### Excercise 164 - Sum of Multiples
+
+### Excercise 165 - Merge two sorted arrays into one
