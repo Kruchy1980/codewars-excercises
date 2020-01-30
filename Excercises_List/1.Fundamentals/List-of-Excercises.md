@@ -187,3 +187,5 @@
 ### Excercise 164 - Sum of Multiples
 
 ### Excercise 165 - Merge two sorted arrays into one
+
+### Excercise 166 - Cat years, Dog years
