@@ -167,3 +167,39 @@
 ### Excercise 154 - Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence
 
 ### Excercise 155 - Beginner Series #4 Cockroach
+
+### Excercise 156 - Is it a number?
+
+### Excercise 157 - Determine offspring sex based on genes XX and XY chromosomes
+
+### Excercise 158 - Geometry Basics: Circle Circumference in 2D
+
+### Excercise 159 - Training JS #18: Methods of String object--concat() split() and its good friend join()
+
+### Excercise 160 - Basic subclasses - Adam and Eve
+
+### Excercise 161 - Holiday VI - Shark Pontoon
+
+### Excercise 162 - Remove duplicates from list
+
+### Excercise 163 - Sleigh Authentication
+
+### Excercise 164 - Sum of Multiples
+
+### Excercise 165 - Merge two sorted arrays into one
+
+### Excercise 166 - Cat years, Dog years
+
+### Excercise 167 - CSV representation of array
+
+### Excercise 168 - String cleaning
+
+### Excercise 169 - Beginner Series #1 School Paperwork
+
+### Excercise 170 - No Loops 2 - You only need one
+
+### Excercise 171 - Simple Fun #352: Reagent Formula
+
+### Excercise 172 - Area or Perimeter
+
+### Excercise 173 - Kata Example Twist
