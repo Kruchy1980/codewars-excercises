@@ -199,3 +199,5 @@
 ### Excercise 170 - No Loops 2 - You only need one
 
 ### Excercise 171 - Simple Fun #352: Reagent Formula
+
+### Excercise 172 - Area or Perimeter
