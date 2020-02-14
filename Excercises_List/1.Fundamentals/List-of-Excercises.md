@@ -194,4 +194,6 @@
 
 ### Excercise 168 - String cleaning
 
-### Excercise 169 -
+### Excercise 169 - Beginner Series #1 School Paperwork
+
+### Excercise 170 - No Loops 2 - You only need one
