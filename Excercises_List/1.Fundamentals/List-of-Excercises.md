@@ -192,4 +192,6 @@
 
 ### Excercise 167 - CSV representation of array
 
-### Excercise 168 -
+### Excercise 168 - String cleaning
+
+### Excercise 169 -
