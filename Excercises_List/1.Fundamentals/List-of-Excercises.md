@@ -205,3 +205,5 @@
 ### Excercise 173 - Kata Example Twist
 
 ### Excercise 174 - Type of sum
+
+### Excercise 175 - No zeros for heros

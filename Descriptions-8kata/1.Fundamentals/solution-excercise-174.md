@@ -14,6 +14,6 @@ function typeOfSum(a, b) {
 
 }
 
-### More about typeof vaue under url:
+### More about typeof value operator under url:
 
 https://www.w3schools.com/Jsref/jsref_operators.asp
