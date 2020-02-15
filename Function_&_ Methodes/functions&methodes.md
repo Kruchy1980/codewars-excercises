@@ -142,7 +142,7 @@ https://www.w3schools.com/jsref/jsref_parsefloat.asp - parseFloat() function
 
 # Other:
 
-1. Operators in JS
+1. Operators in JS including typeof
 2. ...array - spread operaror
 3. for loop
 4. for ...of loop
