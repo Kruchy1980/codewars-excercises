@@ -142,7 +142,7 @@ https://www.w3schools.com/jsref/jsref_parsefloat.asp - parseFloat() function
 
 # Other:
 
-1. Operators in JS
+1. Operators in JS including typeof
 2. ...array - spread operaror
 3. for loop
 4. for ...of loop
@@ -150,6 +150,7 @@ https://www.w3schools.com/jsref/jsref_parsefloat.asp - parseFloat() function
 6. length property
 7. OOP static method
 8. RegExp.
+9. Template Strings
 
 ### 1.Operators in JS
 
@@ -182,3 +183,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static
 ### 8. RegExp
 
 https://www.w3schools.com/js/js_regexp.asp - regExp
+
+### 8. Template sttings.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals - template strings
