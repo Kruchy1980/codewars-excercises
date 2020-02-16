@@ -213,3 +213,5 @@
 ### Excercise 177 - Define a card suit
 
 ### Excercise 178 - Get the mean of an array
+
+### Excercise 179 - Find numbers which are divisible by given number
