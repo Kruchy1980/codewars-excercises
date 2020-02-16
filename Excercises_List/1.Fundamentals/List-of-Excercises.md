@@ -208,4 +208,12 @@
 
 ### Excercise 175 - No zeros for heros
 
-### Excercise 176 -
+### Excercise 176 - Man in the west
+
+### Excercise 177 - Define a card suit
+
+### Excercise 178 - Get the mean of an array
+
+### Excercise 179 - Find numbers which are divisible by given number
+
+### Excercise 180 - Who ate the cookie?
