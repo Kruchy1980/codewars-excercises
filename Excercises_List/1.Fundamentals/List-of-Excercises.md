@@ -215,3 +215,5 @@
 ### Excercise 178 - Get the mean of an array
 
 ### Excercise 179 - Find numbers which are divisible by given number
+
+### Excercise 180 - Who ate the cookie?
