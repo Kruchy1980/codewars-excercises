@@ -14,3 +14,11 @@ A few cases:
 (15, -5, 3) -> true
 
 ### Solution
+
+function isDivideBy(number, a, b) {
+// good luck
+
+##### Simple conditions check
+
+return number % a === 0 && number % b === 0;
+}

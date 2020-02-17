@@ -221,3 +221,5 @@
 ### Excercise 181 - noobCode 01: SUPERSIZE ME.... or rather, this integer!
 
 ### Excercise 182 - Can we divide it?
+
+### Excercise 183 - Multiplication table for number
