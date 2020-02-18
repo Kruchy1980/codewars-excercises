@@ -224,4 +224,4 @@
 
 ### Excercise 183 - Multiplication table for number
 
-### Excercise 184 -
+### Excercise 184 - Simple Fun #1: Seats in Theater
