@@ -227,3 +227,5 @@
 ### Excercise 184 - Simple Fun #1: Seats in Theater
 
 ### Excercise 185 - 101 Dalmatians - squash the bugs, not the dogs!
+
+### Excercise 186 -
