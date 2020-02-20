@@ -23,6 +23,7 @@
 21. El new Set() - sets in javascript - El
 22. A sort() - arr.sort() method - A
 23. N toFixed() - number.toFIxed() method - N
+24. M Math.Pi - The value of Pi - M
 
 # Methodes:
 
@@ -118,6 +119,10 @@ https://www.w3schools.com/jsref/jsref_sort.asp arr.sort() method
 ### 23. number.toFIxed() method
 
 https://www.w3schools.com/jsref/jsref_tofixed.asp - number.toFixed() method
+
+### Math.PI - and more
+
+https://www.w3schools.com/jsref/jsref_obj_math.asp - Math.Pi in manay more
 
 ==========================================================
 

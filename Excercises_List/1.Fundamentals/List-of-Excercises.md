@@ -231,3 +231,5 @@
 ### Excercise 186 - USD => CNY
 
 ### Excercise 187 - Aspect Ratio Cropping - Part 1
+
+### Excercise 188 - Geometry Basics: Circle Area in 2D
