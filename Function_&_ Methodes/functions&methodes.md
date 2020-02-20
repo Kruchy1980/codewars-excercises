@@ -117,6 +117,8 @@ https://www.w3schools.com/jsref/jsref_sort.asp arr.sort() method
 
 ### 23. number.toFIxed() method
 
+https://www.w3schools.com/jsref/jsref_tofixed.asp - number.toFixed() method
+
 ==========================================================
 
 # Functions list:

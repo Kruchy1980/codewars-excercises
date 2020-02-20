@@ -229,3 +229,5 @@
 ### Excercise 185 - 101 Dalmatians - squash the bugs, not the dogs!
 
 ### Excercise 186 - USD => CNY
+
+### Excercise 187 - Aspect Ratio Cropping - Part 1
