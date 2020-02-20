@@ -22,6 +22,7 @@
 20. M Math.ceil() - Rounding down MAth.method - M
 21. El new Set() - sets in javascript - El
 22. A sort() - arr.sort() method - A
+23. N toFixed() - number.toFIxed() method - N
 
 # Methodes:
 
@@ -113,6 +114,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 ### 22. arr.sort() method
 
 https://www.w3schools.com/jsref/jsref_sort.asp arr.sort() method
+
+### 23. number.toFIxed() method
 
 ==========================================================
 

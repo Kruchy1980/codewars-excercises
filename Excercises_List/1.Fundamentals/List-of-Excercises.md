@@ -228,4 +228,4 @@
 
 ### Excercise 185 - 101 Dalmatians - squash the bugs, not the dogs!
 
-### Excercise 186 -
+### Excercise 186 - USD => CNY
