@@ -24,6 +24,8 @@
 22. A sort() - arr.sort() method - A
 23. N toFixed() - number.toFIxed() method - N
 24. M Math.Pi - The value of Pi - M
+25. M Math.min() - the extremum find method - m
+26. M Math.max() - the extremum find method - m
 
 # Methodes:
 
@@ -120,9 +122,17 @@ https://www.w3schools.com/jsref/jsref_sort.asp arr.sort() method
 
 https://www.w3schools.com/jsref/jsref_tofixed.asp - number.toFixed() method
 
-### Math.PI - and more
+### 24. Math.PI - and more
 
 https://www.w3schools.com/jsref/jsref_obj_math.asp - Math.Pi in manay more
+
+### 25. Math.min() method
+
+https://www.w3schools.com/jsref/jsref_min.asp - Math.min() method
+
+### 26. Math.max() method
+
+https://www.w3schools.com/jsref/jsref_max.asp - Math.max() method
 
 ==========================================================
 
