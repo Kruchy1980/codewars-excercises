@@ -239,3 +239,5 @@
 ### Excercise 190 - !a == a ?!
 
 ### Excercise 191 - Find the Difference in Age between Oldest and Youngest Family Members
+
+### Excercise 192 - N-th Power
