@@ -241,3 +241,5 @@
 ### Excercise 191 - Find the Difference in Age between Oldest and Youngest Family Members
 
 ### Excercise 192 - N-th Power
+
+### Excercise 193 - Jenny's secret message

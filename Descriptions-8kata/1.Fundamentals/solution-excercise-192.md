@@ -10,3 +10,12 @@ array = [1, 2, 3, 4] and N = 2, then the result is 3^2 == 9;
 array = [1, 2, 3] and N = 3, but N is outside of the array, so the result is -1.
 
 ### Solution
+
+function index(array, n){
+//your code here
+
+##### Normlly it should work fine but there is smth wrong with codewars and this excercise because it does not recognizes the mulipy mark
+
+    return array.length-1 >= n ? (array[n] \*\* n) : -1;
+
+}
