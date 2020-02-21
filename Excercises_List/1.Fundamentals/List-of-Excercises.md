@@ -243,3 +243,5 @@
 ### Excercise 192 - N-th Power
 
 ### Excercise 193 - Jenny's secret message
+
+### Excercise 194 - Is integer safe to use?
