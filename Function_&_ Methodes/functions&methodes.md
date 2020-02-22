@@ -22,6 +22,11 @@
 20. M Math.ceil() - Rounding down MAth.method - M
 21. El new Set() - sets in javascript - El
 22. A sort() - arr.sort() method - A
+23. N toFixed() - number.toFIxed() method - N
+24. M Math.Pi - The value of Pi - M
+25. M Math.min() - the extremum find method - M
+26. M Math.max() - the extremum find method - M
+27. N isSafeInteger() - Number.isSafeInteger - N
 
 # Methodes:
 
@@ -113,6 +118,26 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 ### 22. arr.sort() method
 
 https://www.w3schools.com/jsref/jsref_sort.asp arr.sort() method
+
+### 23. number.toFIxed() method
+
+https://www.w3schools.com/jsref/jsref_tofixed.asp - number.toFixed() method
+
+### 24. Math.PI - and more
+
+https://www.w3schools.com/jsref/jsref_obj_math.asp - Math.Pi in manay more
+
+### 25. Math.min() method
+
+https://www.w3schools.com/jsref/jsref_min.asp - Math.min() method
+
+### 26. Math.max() method
+
+https://www.w3schools.com/jsref/jsref_max.asp - Math.max() method
+
+### 27. Number.isSafeInreger() method
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isSafeInteger - Number.isSafeInteger() method
 
 ==========================================================
 

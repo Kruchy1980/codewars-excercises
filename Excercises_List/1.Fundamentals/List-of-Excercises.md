@@ -224,4 +224,24 @@
 
 ### Excercise 183 - Multiplication table for number
 
-### Excercise 184 -
+### Excercise 184 - Simple Fun #1: Seats in Theater
+
+### Excercise 185 - 101 Dalmatians - squash the bugs, not the dogs!
+
+### Excercise 186 - USD => CNY
+
+### Excercise 187 - Aspect Ratio Cropping - Part 1
+
+### Excercise 188 - Geometry Basics: Circle Area in 2D
+
+### Excercise 189 - Potenciation
+
+### Excercise 190 - !a == a ?!
+
+### Excercise 191 - Find the Difference in Age between Oldest and Youngest Family Members
+
+### Excercise 192 - N-th Power
+
+### Excercise 193 - Jenny's secret message
+
+### Excercise 194 - Is integer safe to use?
