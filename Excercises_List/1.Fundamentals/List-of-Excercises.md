@@ -247,3 +247,5 @@
 ### Excercise 194 - Is integer safe to use?
 
 ### Excercise 195 - Calculate Price Excluding VAT
+
+### Excercise 196 - Fun with ES6 Classes #1 - People, people, people
