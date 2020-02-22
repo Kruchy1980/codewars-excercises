@@ -245,3 +245,5 @@
 ### Excercise 193 - Jenny's secret message
 
 ### Excercise 194 - Is integer safe to use?
+
+### Excercise 195 - Calculate Price Excluding VAT
