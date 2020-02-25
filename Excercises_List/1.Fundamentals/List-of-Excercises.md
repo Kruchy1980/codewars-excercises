@@ -251,3 +251,5 @@
 ### Excercise 196 - Fun with ES6 Classes #1 - People, people, people
 
 ### Excercise 197 - Filling an array (part 1)
+
+### Excercise 198 - Safen User Input Part I - htmlspecialchars
