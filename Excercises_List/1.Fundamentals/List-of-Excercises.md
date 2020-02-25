@@ -245,3 +245,15 @@
 ### Excercise 193 - Jenny's secret message
 
 ### Excercise 194 - Is integer safe to use?
+
+### Excercise 195 - Calculate Price Excluding VAT
+
+### Excercise 196 - Fun with ES6 Classes #1 - People, people, people
+
+### Excercise 197 - Filling an array (part 1)
+
+### Excercise 198 - Safen User Input Part I - htmlspecialchars
+
+### Excercise 199 - isReallyNaN
+
+### Excercise 200 - Are arrow functions odd?

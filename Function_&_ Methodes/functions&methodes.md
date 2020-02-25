@@ -27,6 +27,9 @@
 25. M Math.min() - the extremum find method - M
 26. M Math.max() - the extremum find method - M
 27. N isSafeInteger() - Number.isSafeInteger - N
+28. O Object.assign() - Objeect copying method - O
+29. A Array.from() - Array.from() method - A
+30. N isNaN() - Number.isNaN() - N
 
 # Methodes:
 
@@ -138,6 +141,18 @@ https://www.w3schools.com/jsref/jsref_max.asp - Math.max() method
 ### 27. Number.isSafeInreger() method
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isSafeInteger - Number.isSafeInteger() method
+
+### 28. Object.assign() method
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign - Object Assign method
+
+### 29. Array.from() method
+
+https://www.w3schools.com/jsref/jsref_from.asp - Array.from() method
+
+### 30. Number.isNaN() method
+
+https://www.w3schools.com/jsref/jsref_isnan_number.asp - Number.isNaN()
 
 ==========================================================
 
