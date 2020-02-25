@@ -253,3 +253,5 @@
 ### Excercise 197 - Filling an array (part 1)
 
 ### Excercise 198 - Safen User Input Part I - htmlspecialchars
+
+### Excercise 199 - isReallyNaN
