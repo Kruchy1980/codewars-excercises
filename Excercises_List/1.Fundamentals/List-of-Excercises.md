@@ -249,3 +249,5 @@
 ### Excercise 195 - Calculate Price Excluding VAT
 
 ### Excercise 196 - Fun with ES6 Classes #1 - People, people, people
+
+### Excercise 197 - Filling an array (part 1)

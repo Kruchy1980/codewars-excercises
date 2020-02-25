@@ -28,6 +28,7 @@
 26. M Math.max() - the extremum find method - M
 27. N isSafeInteger() - Number.isSafeInteger - N
 28. O Object.assign() - Objeect copying method - O
+29. A Array.from() - Array.from() method - A
 
 # Methodes:
 
@@ -143,6 +144,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 ### 28. Object.assign() method
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign - Object Assign method
+
+### 29. Array.from() method
+
+https://www.w3schools.com/jsref/jsref_from.asp - Array.from() method
 
 ==========================================================
 
