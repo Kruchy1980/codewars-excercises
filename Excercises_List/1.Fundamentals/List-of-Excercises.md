@@ -1,3 +1,143 @@
+### Excercise 1 - Beginner - Lost Without a Map
+
+### Excercise 2 - Remove String Spaces
+
+### Excercise 3 - Well of Ideas - Easy Version
+
+### Excercise 4 - Alan Partridge II - Apple Turnover
+
+### Excercise 5 - Sum Mixed Array
+
+### Excercise 6 - Count the Monkeys!
+
+### Excercise 7 - The 'if' function
+
+### Excercise 8 - Sum The Strings
+
+### Excercise 9 - The Wide-Mouthed frog!
+
+### Excercise 10 - Do I get a bonus?
+
+### Excercise 11 -Generate range of integers
+
+### Excercise 12 -
+
+### Excercise 13 -
+
+### Excercise 14 -
+
+### Excercise 15 -
+
+### Excercise 16 -
+
+### Excercise 17 -
+
+### Excercise 18 -
+
+### Excercise 19 -
+
+### Excercise 20 -
+
+### Excercise 21 -
+
+### Excercise 22 -
+
+### Excercise 23 -
+
+### Excercise 24 -
+
+### Excercise 25 -
+
+### Excercise 26 -
+
+### Excercise 28 -
+
+### Excercise 29 -
+
+### Excercise 30 -
+
+### Excercise 31 -
+
+### Excercise 32 -
+
+### Excercise 33 -
+
+### Excercise 34 -
+
+### Excercise 35 -
+
+### Excercise 36 -
+
+### Excercise 37 -
+
+### Excercise 38 -
+
+### Excercise 39 -
+
+### Excercise 40 -
+
+### Excercise 41 -
+
+### Excercise 42 -
+
+### Excercise 43 -
+
+### Excercise 44 -
+
+### Excercise 45 -
+
+### Excercise 46 -
+
+### Excercise 47 -
+
+### Excercise 48 -
+
+### Excercise 49 -
+
+### Excercise 50 -
+
+### Excercise 51 -
+
+### Excercise 52 -
+
+### Excercise 53 -
+
+### Excercise 53 -
+
+### Excercise 54 -
+
+### Excercise 55 -
+
+### Excercise 56 -
+
+### Excercise 57 -
+
+### Excercise 58 -
+
+### Excercise 59 -
+
+### Excercise 60 -
+
+### Excercise 61 -
+
+### Excercise 62 -
+
+### Excercise 63 -
+
+### Excercise 64 -
+
+### Excercise 65 -
+
+### Excercise 66 -
+
+### Excercise 67 -
+
+### Excercise 68 -
+
+### Excercise 69 -
+
+### Excercise 70 -
+
 ### Excercise 71 - Function 1 - hello world
 
 ### Excercise 72 - Grasshopper - Make change
