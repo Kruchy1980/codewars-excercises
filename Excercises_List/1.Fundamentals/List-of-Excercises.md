@@ -257,3 +257,5 @@
 ### Excercise 199 - isReallyNaN
 
 ### Excercise 200 - Are arrow functions odd?
+
+### Excercise 201 - For Twins: 1. Types
