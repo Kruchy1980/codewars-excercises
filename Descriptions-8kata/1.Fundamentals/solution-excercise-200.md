@@ -11,7 +11,7 @@ function odds(values){
 
 ##### With using array.filter() method and Mathematical modulo we can easy solve the problem
 
-    return values.filter(el => el % 2 == 1 );
+    return values.filter(el => el % 2 != 0 );
 
 }
 
