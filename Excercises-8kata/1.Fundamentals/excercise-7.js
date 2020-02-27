@@ -1,4 +1,5 @@
 // The 'if' function
+
 // 1st solution
 function _if(bool, func1, func2) {
     // ...

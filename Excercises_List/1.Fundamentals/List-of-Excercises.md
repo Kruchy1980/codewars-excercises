@@ -18,125 +18,123 @@
 
 ### Excercise 10 - Do I get a bonus?
 
-### Excercise 11 -Generate range of integers
+### Excercise 11 - Generate range of integers
 
-### Excercise 12 -
+### Excercise 12 - Regexp Basics - is it a digit?
 
-### Excercise 13 -
+### Excercise 13 - Keep up the hoop
 
-### Excercise 14 -
+### Excercise 14 - Sum of differences in array
 
-### Excercise 15 -
+### Excercise 15 - 5 without numbers !!
 
-### Excercise 16 -
+### Excercise 16 - Sort and Star
 
-### Excercise 17 -
+### Excercise 17 - Draw stairs
 
-### Excercise 18 -
+### Excercise 18 - For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre
 
-### Excercise 19 -
+### Excercise 19 - Reversed Strings
 
-### Excercise 20 -
+### Excercise 20 - I love you, a little , a lot, passionately ... not at all
 
-### Excercise 21 -
+### Excercise 21 - Calculate BMI
 
-### Excercise 22 -
+### Excercise 22 - Get character from ASCII Value
 
-### Excercise 23 -
+### Excercise 23 - Century From Year
 
-### Excercise 24 -
+### Excercise 24 - Expressions Matter
 
-### Excercise 25 -
+### Excercise 25 - Is n divisible by x and y?
 
-### Excercise 26 -
+### Excercise 26 - What is between?
 
-### Excercise 28 -
+### Excercise 28 - Multiple of index
 
-### Excercise 29 -
+### Excercise 29 - Enumerable Magic #25 - Take the First N Elements
 
-### Excercise 30 -
+### Excercise 30 - Simple validation of a username with regex
 
-### Excercise 31 -
+### Excercise 31 - Be Concise I - The Ternary Operator
 
-### Excercise 32 -
+### Excercise 32 - Find the Integral
 
-### Excercise 33 -
+### Excercise 33 - Grasshopper - Personalized Message
 
-### Excercise 34 -
+### Excercise 34 - A wolf in sheep's clothing
 
-### Excercise 35 -
+### Excercise 35 - Swap Values
 
-### Excercise 36 -
+### Excercise 36 - Keep Hydrated!
 
-### Excercise 37 -
+### Excercise 37 - Area of a Square
 
-### Excercise 38 -
+### Excercise 38 - Remove First and Last Character
 
-### Excercise 39 -
+### Excercise 39 - Surface Area and Volume of a Box
 
-### Excercise 40 -
+### Excercise 40 - A Strange Trip to the Market
 
-### Excercise 41 -
+### Excercise 41 - Find the first non-consecutive number
 
-### Excercise 42 -
+### Excercise 42 - altERnaTIng cAsE <=> ALTerNAtiNG CaSe
 
-### Excercise 43 -
+### Excercise 43 - Grasshopper - Messi goals function
 
-### Excercise 44 -
+### Excercise 44 - MakeUpperCase
 
-### Excercise 45 -
+### Excercise 45 - Grasshopper - Terminal game move function
 
-### Excercise 46 -
+### Excercise 46 - 8kyu interpreters: HQ9+
 
-### Excercise 47 -
+### Excercise 47 - Third Angle of a Triangle
 
-### Excercise 48 -
+### Excercise 48 - Grasshopper - Summation
 
-### Excercise 49 -
+### Excercise 49 - Convert a String to a Number!
 
-### Excercise 50 -
+### Excercise 50 - Counting sheep...
 
-### Excercise 51 -
+### Excercise 51 - L1: Set Alarm
 
-### Excercise 52 -
+### Excercise 52 - Grasshopper - Check for factor
 
-### Excercise 53 -
+### Excercise 53 - Even or Odd
 
-### Excercise 53 -
+### Excercise 54 - A Needle in the Haystack
 
-### Excercise 54 -
+### Excercise 55 - Square(n) Sum
 
-### Excercise 55 -
+### Excercise 56 - Wilson primes
 
-### Excercise 56 -
+### Excercise 57 - Difference of Volumes of Cuboids
 
-### Excercise 57 -
+### Excercise 58 - Abbreviate a Two Word Name
 
-### Excercise 58 -
+### Excercise 59 - Correct the mistakes of the character recognition software
 
-### Excercise 59 -
+### Excercise 60 - Count of positives / sum of negatives
 
-### Excercise 60 -
+### Excercise 61 - Convert boolean values to strings 'Yes' or 'No'.
 
-### Excercise 61 -
+### Excercise 62 - Student's Final Grade
 
-### Excercise 62 -
+### Excercise 63 - Will there be enough space?
 
-### Excercise 63 -
+### Excercise 64 - Return Negative
 
-### Excercise 64 -
+### Excercise 65 - Grasshopper - Terminal game combat function
 
-### Excercise 65 -
+### Excercise 66 - Total amount of points
 
-### Excercise 66 -
+### Excercise 67 - How many lightsabers do you own?
 
-### Excercise 67 -
+### Excercise 68 - Check the exam
 
-### Excercise 68 -
+### Excercise 69 - Filter out the geese
 
-### Excercise 69 -
-
-### Excercise 70 -
+### Excercise 70 - Basic Mathematical Operations
 
 ### Excercise 71 - Function 1 - hello world
 

@@ -12,7 +12,7 @@ summation(8) -> 36
 
 ### Solution
 
-var summation = function (num) {
+let summation = function (num) {
 
 ##### Firstly declare the variable which value is equal 0 than
 
