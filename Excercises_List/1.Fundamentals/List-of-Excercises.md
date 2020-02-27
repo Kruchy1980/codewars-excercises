@@ -403,3 +403,5 @@
 ### Excercise 203 - Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string
 
 ### Excercise 204 - Training JS #7: if..else and ternary operator
+
+### Excercise 205 - Exclamation marks series #1: Remove a exclamation mark from the end of string
